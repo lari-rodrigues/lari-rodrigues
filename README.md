@@ -10,12 +10,12 @@
 <table border="0">
  <tr>
    <td> 🇧🇷 I'm Brazilian </td>
-   <td> :earth_americas: I’m currently working on Assemblismo </td>
+   <td> :earth_americas: I’m currently working on Counterpart </td>
  </tr>
 
  <tr>
    <td> :computer: I'm a data engineer with 10+ years of experience </td>
-   <td> :seedling: I love the nature  </td>
+   <td> :seedling: I love nature  </td>
  </tr>
   
  <tr>
