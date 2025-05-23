@@ -28,15 +28,15 @@
 
 | Skill                | Years of Experience    | Latest Period    | \| | Skill                            | Years of Experience    | Latest Period    |
 | :-----:              | :---:                  | :---:            | -- | :-----:                          | :---:                  | :---:            |
-| SQL                  | 12                     | 2024             | \| | GCP                              | 1                      | 2021             |
+| SQL                  | 13                     | 2025             | \| | GCP                              | 1                      | 2021             |
 | PL/SQL               | 4                      | 2016             | \| | Azure                            | 1                      | 2022             |
-| Python               | 5                      | 2024             | \| | Talend                           | 1                      | 2018             |
+| Python               | 6                      | 2025             | \| | Talend                           | 1                      | 2018             |
 | Shell Script         | 3                      | 2021             | \| | Power Center                     | 1                      | 2019             |
-| Pandas               | 3                      | 2022             | \| | NoSQL Databases                  | 3                      | 2024             |
-| Pyspark              | 3                      | 2024             | \| | Datalake ingest / Foundation     | 3                      | 2024             |
-| Git                  | 10                     | 2024             | \| | Scrum / Agile                    | 9                      | 2024             |
-| Linux                | 8                      | 2024             | \| | Web Scrape                       | 1                      | 2023             |
-| AWS                  | 3                      | 2024             | \| | Test automation                  | 4                      | 2024             |
+| Pandas               | 3                      | 2022             | \| | NoSQL Databases                  | 4                      | 2025             |
+| Pyspark              | 3                      | 2024             | \| | Datalake ingest / Foundation     | 4                      | 2025             |
+| Git                  | 11                     | 2025             | \| | Scrum / Agile                    | 10                     | 2025             |
+| Linux                | 9                      | 2025             | \| | Web Scrape                       | 1                      | 2023             |
+| AWS                  | 4                      | 2025             | \| | Test automation                  | 5                      | 2025             |
 
   
 <div>
