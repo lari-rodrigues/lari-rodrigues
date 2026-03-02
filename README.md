@@ -35,7 +35,3 @@
 | AWS                  | 5                      | 2026             | \| | Test automation                  | 6                      | 2026             |
 
   
-<div>
-      <a href="https://github.com/lari-rodrigues">
-      <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lari-rodrigues&amp;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width:100%;">
-</div>
